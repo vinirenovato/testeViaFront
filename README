@@ -1,0 +1,11 @@
+Ter instalado:
+
+Ruby;
+Geckodriver e Firefox;
+gem install capybara;
+gem install selenium-webdriver;
+gem install cucumber;
+Para executar o script:
+
+Entrar na pastat razi do projeto pelo terminal;
+Executar o comando "cucumber"
