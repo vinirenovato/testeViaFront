@@ -7,5 +7,5 @@ gem install selenium-webdriver;
 gem install cucumber;
 Para executar o script:
 
-Entrar na pastat razi do projeto pelo terminal;
+Entrar na pastat raiz do projeto pelo terminal;
 Executar o comando "cucumber"
